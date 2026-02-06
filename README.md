@@ -1,10 +1,13 @@
 **Global Sales Dashboard — simple, clear, ready to share**
+
 A clean, easy-to-follow sales dashboard summarizing transactions from India, Canada, UK, US, Nigeria, and China — built so anyone (technical or not) can understand the story in the data.
 
 **Purpose**
+
 Show who **sold what, where, and how well** — so product owners, store managers, and business leads can make fast decisions.
 
 **What you’ll see (at a glance)**
+
 Total sales and total profit.
 Sales trend over time (daily/weekly).
 Top-selling products and units sold.
