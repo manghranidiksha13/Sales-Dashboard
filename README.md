@@ -27,10 +27,10 @@ Use the date and country filters to explore — everything updates instantly.
 
 **Key metrics explained (so anyone understands)**
 
-Total Sales: Money received after discounts.
-Total Profit: Sales minus product cost (shows real earnings).
-Units Sold: How many items moved — volume, not value.
-Avg Order Value: Typical amount customers spend per transaction.
+**Total Sales:** Money received after discounts.
+**Total Profit**: Sales minus product cost (shows real earnings).
+**Units Sold:** How many items moved — volume, not value.
+**Avg Order Value:** Typical amount customers spend per transaction.
 
 **Quick insights to look for**
 
@@ -42,6 +42,9 @@ One country dominating revenue = check scale vs margin.
 **Files included**
 
 data/ — sample cleaned dataset (CSV).
+
 dashboard/ — the dashboard file (template).
+
 docs/ — 2–3 screenshots and short descriptions.
+
 README.md — this file.
